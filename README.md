@@ -186,7 +186,7 @@ matplotlib >= 3.4.0
 #### 6.2.1 Environment Setup
 ```bash
 # Repository cloning
-git clone [repository-url]
+git clone https://github.com/VipranshOjha/Automated-Dental-Forensic-Identification
 cd dental-forensic-identification
 
 # Dependency installation
