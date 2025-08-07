@@ -277,32 +277,3 @@ The proposed system addresses critical limitations in manual forensic dental ide
 
 This research was conducted as an educational demonstration of AI capabilities in forensic sciences. The authors acknowledge the limitations imposed by restricted access to actual forensic datasets and emphasize that this work represents a proof-of-concept for future development rather than an operational forensic tool.
 
-## References
-
- American Board of Forensic Odontology. (2016). Standards and Guidelines for Evaluating Radiographs. *Journal of Forensic Sciences*, 61(4), 1-4.
-
- Pretty, I. A., & Sweet, D. (2001). A look at forensic dentistry–Part 1: The role of teeth in the determination of human identity. *British Dental Journal*, 190(7), 359-366.
-
- Berketa, J. W., James, H., & Lake, A. W. (2012). Forensic odontology involvement in disaster victim identification. *Forensic Science, Medicine, and Pathology*, 8(2), 148-156.
-
- Lewis, J. M., & Senn, D. R. (2013). Dental age estimation utilizing third molar development: A review of principles, methods, and population studies used in the United States. *Forensic Science International*, 226(1-3), 70-79.
-
- Schuller, I. M., Haglund, W. D., & Perper, J. A. (1990). Forensic dental identification in mass disasters. *Dental Clinics of North America*, 34(1), 47-56.
-
- Forrest, A. S. (2019). The role of forensic odontology in mass casualty incidents. *Australian Dental Journal*, 64(1), 50-54.
-
- International Association for Dental Research. (2018). Guidelines for dental identification procedures in mass disasters. *Journal of Dental Research*, 97(8), 856-863.
-
- Phillips, P. J., et al. (2018). Face recognition accuracy of forensic examiners, superrecognizers, and face recognition algorithms. *Proceedings of the National Academy of Sciences*, 115(24), 6171-6176.
-
- Maltoni, D., et al. (2009). *Handbook of fingerprint recognition*. Springer Science & Business Media.
-
- Hofer, M., & Marana, A. N. (2017). Dental biometrics: Human identification based on teeth. *Artificial Intelligence Review*, 48(2), 203-226.
-
- Hamamci, I. E., Er, S., Simsar, E., Yuksel, A. E., Gultekin, S., Ozdemir, S. D., ... & Menze, B. (2023). DENTEX: An Abnormal Tooth Detection with Dental Enumeration and Diagnosis Benchmark for Panoramic X-rays. *arXiv preprint arXiv:2305.19112*.
-
- Hamamci, I. E., Er, S., Simsar, E., Sekuboyina, A., Gundogar, M., Stadlinger, B., ... & Menze, B. (2023). Diffusion-based hierarchical multi-label object detection to analyze panoramic dental x-rays. In *International Conference on Medical Image Computing and Computer-Assisted Intervention* (pp. 389-399). Springer.
-
- Koch, G., Zemel, R., & Salakhutdinov, R. (2015). Siamese neural networks for one-shot image recognition. *ICML deep learning workshop*, 2.
-
-**Disclaimer**: This research is conducted for educational and proof-of-concept purposes only. The system has not been validated for operational forensic use and requires appropriate forensic datasets and expert validation before any practical application in medicolegal contexts.
