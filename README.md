@@ -275,5 +275,5 @@ The proposed system addresses critical limitations in manual forensic dental ide
 
 ## Acknowledgments
 
-This research was conducted as an educational demonstration of AI capabilities in forensic sciences. The authors acknowledge the limitations imposed by restricted access to actual forensic datasets and emphasize that this work represents a proof-of-concept for future development rather than an operational forensic tool.
+This research was conducted as an educational demonstration of AI capabilities in forensic sciences. I acknowledge the limitations imposed by restricted access to actual forensic datasets and emphasize that this work represents a proof-of-concept for future development rather than an operational forensic tool.
 
